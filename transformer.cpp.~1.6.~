@@ -1,6 +1,6 @@
 #include "transformer.h"
 
-#include "albersConEqArea.h"
+#include "albersconeqarea.h"
 #include "lambertcc.h"
 #include "mercator.h"
 #include "polyconic.h"
